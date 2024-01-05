@@ -37,7 +37,7 @@ This project explores sentiment analysis of movie reviews in the IMDb dataset. I
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/sentiment-analysis-imdb
+   git clone https://github.com/GeamXD/sentiment-analysis-imdb
    ```
 
 2. **Install dependencies:**
